@@ -1,2 +1,4 @@
 /node_modules
 /curso-frontend-developer-practico
+.DS_Store
+.babelrc
